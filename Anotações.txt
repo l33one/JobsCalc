@@ -1,0 +1,10 @@
+npm i express
+npm i nodemon -D
+
+package.json >> "dev": "nodemon src/server.js"
+npm run dev
+
+template engine ejs
+npm i ejs
+
+
